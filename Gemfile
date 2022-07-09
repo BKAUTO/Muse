@@ -52,6 +52,8 @@ gem 'mimemagic', '~> 0.3.0'
 
 gem 'paperclip', '~> 6.1'
 
+gem 'acts_as_votable', '~> 0.13.2'
+
 # Use Sass to process CSS
 # gem "sassc-rails"
 
